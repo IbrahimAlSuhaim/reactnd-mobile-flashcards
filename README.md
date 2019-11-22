@@ -8,13 +8,14 @@ It's a project for Udacity's React Fundamentals course.
 - The application requires only yarn install and yarn start to install and launch. npm can be used in place of yarn.
 
 #### New Deck
-![Alt text](./screenshots/newDeck.jpg "new deck")
+
+<img src="./screenshots/newDeck.jpg" alt="new deck view" width="350">
 
 #### Add Card to deck
-![Alt text](./screenshots/newCard.jpg)
+<img src="./screenshots/newCard.jpg" alt="new card view" width="350">
 
 #### Deck view
-![Alt text](./screenshots/deck.jpg)
+<img src="./screenshots/deck.jpg" alt="deck view" width="350">
 
 #### hide/show answer in quiz
-![Alt text](./screenshots/toggleAnswer.gif)
+<img src="./screenshots/toggleAnswer.gif" alt="toggle answer" width="350">
